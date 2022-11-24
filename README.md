@@ -1,0 +1,1 @@
+# -react-synonym-word-ts-vite
